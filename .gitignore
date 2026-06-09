@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+dist/
+build/
+.env
+.env.local
+
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+.mvn/
+mvnw
+mvnw.cmd
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
